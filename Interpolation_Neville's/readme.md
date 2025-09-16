@@ -1,0 +1,1 @@
+The rule for mixing (the formula in the code) is like a weighted average. It looks at how far x = 1.5 is from each point’s x-value (0, 1, or 2) and gives more importance to points that are closer. This ensures the answer fits the smooth curve that goes through all the points.
