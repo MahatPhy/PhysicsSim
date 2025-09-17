@@ -1,0 +1,1 @@
+The bisection method is one of the most efficient root finding techniques. Thus it can be used in tandem with a method like Newton-Raphson to give us an output that is not only fast but accurate, since the bisection method may be slow on its own.
