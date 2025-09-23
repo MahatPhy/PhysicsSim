@@ -1,0 +1,1 @@
+This folder is meant to learn the <vector> base of Cpp
