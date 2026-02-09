@@ -10,3 +10,7 @@ Thus, I will be rewriting this theory and while preserving two assumptions.
 
 7 Feb 2026:
 Started another project, this time dedicated to Z pinch.
+
+9 Feb 2026:
+Week 2 section A of Z pinch hardware control loop feasibility check
+
