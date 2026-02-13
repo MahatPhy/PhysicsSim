@@ -6,3 +6,13 @@ Current Date of creation of folder and upload of first paper: 18.09.2025
 Thus, I will be rewriting this theory and while preserving two assumptions.
 
 1. The universe can be represented as discrete and finite in R^3, and in higher dimensions can be represented as a manifold.
+
+
+7 Feb 2026:
+Started another project, this time dedicated to Z pinch.
+
+9 Feb 2026:
+Week 2 section A of Z pinch hardware control loop feasibility check
+Feasibility check and initial paper draft uploaded
+
+
